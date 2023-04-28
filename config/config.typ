@@ -17,7 +17,7 @@
 
     // Set text font, size, language, and hyphenation
     set text(
-        font: "Noto Sans",
+        font: "Noto Serif",
         size: 11pt,
         lang: "en",
         hyphenate: false

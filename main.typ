@@ -40,8 +40,3 @@
 
 #make_head(1)[Devnydh hag ensamplow][Usage and examples]
 #include "/usage/usage.typ"
-
-// #alphabet_table.voiced #pagebreak()
-// #alphabet_table.unvoiced #pagebreak()
-// #alphabet_table.deviating #pagebreak()
-// #alphabet_table.vowels #pagebreak()

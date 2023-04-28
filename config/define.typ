@@ -12,7 +12,7 @@
         #cornish
     ]
     linebreak()
-    text(lang: "en", weight: "light", style: "italic")[
+    text(font: "Noto Sans",lang: "en", weight: "light", style: "italic")[
     #if indent {
         h(2em)
     }
