@@ -11,7 +11,7 @@
 
 #deviating
 
-#bilingual[
+#bilingual(indent: true)[
     Rag ensampel, nyns eus hanow aral a omdhesedhsa orth an lytheren *c*, rag bos usys *ka* seulabrys. Ytho y'n henwir *ki*.
 ][
     For example, there is no other name that could be used for the letter *c*, because *ka* is already being used. So, it is named *ki*.

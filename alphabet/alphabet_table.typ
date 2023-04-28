@@ -36,7 +36,7 @@
     "sh": "sha",
     "t": "ta",
     "th": "tha",
-    "hw ~ wh": "wa",
+    "hw ~ wh": "hwa / wa",
 )
 #let deviating_consonants = (
     "c": "ki",
@@ -117,7 +117,7 @@
     "ou": "eyl ou",
     "v": "ve",
     "w": "we",
-    "hw ~ wh": "wa",
+    "hw ~ wh": "hwa, wa",
     "y": "ye",
     "z": "ze",
 )
