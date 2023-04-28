@@ -35,11 +35,13 @@
 #for item in full_order_list {
     cell_list.push(cell[#item])
 }
-#grid(
+
+#show: align(center,
+grid(
     columns: (0.1fr,0.1fr,0.1fr,0.1fr,0.15fr,0.15fr),
     rows: (0.1fr),
     ..cell_list
-)
+))
 #pagebreak()
 
 #bilingual[
